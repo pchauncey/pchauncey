@@ -19,4 +19,4 @@ As a SRE I use the following on a daily basis:
 ### I'm currently playing with and learning:
 
 * [comed-relay](https://github.com/pchauncey/comed-relay), my project to activate electrical workloads based on utility pricing
-* [halyard](https://github.com/spinnaker/halyard) and [spinnaker](https://github.com/spinnaker/halyard}
+* [halyard](https://github.com/spinnaker/halyard) and [spinnaker](https://github.com/spinnaker/halyard)
