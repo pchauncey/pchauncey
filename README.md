@@ -1,6 +1,6 @@
 ## Current position
 
-Hi I'm Patrick, and I lead the SRE/DevOps team at SciPlay.
+Hi I'm Patrick, and I work with computers!
 
 ## Skillset
 
@@ -8,7 +8,7 @@ Hi I'm Patrick, and I lead the SRE/DevOps team at SciPlay.
 
 As a SRE I use the following on a daily basis:
 
-* Linux (Ubuntu 21.04 currently)
+* Linux (Fedora 36 currently)
 * Python
 * Ansible
 * YAML in vim
@@ -18,5 +18,5 @@ As a SRE I use the following on a daily basis:
 
 ### I'm currently playing with and learning:
 
-* [comed-relay](https://github.com/pchauncey/comed-relay), my project to activate electrical workloads based on utility pricing
+* [emu2-to-tesla](https://github.com/pchauncey/emu2-to-tesla), my project to charge a car with excess solar in a grid-tie
 * [halyard](https://github.com/spinnaker/halyard) and [spinnaker](https://github.com/spinnaker/halyard)
