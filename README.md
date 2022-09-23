@@ -6,7 +6,7 @@ Hi I'm Patrick, and I work with computers!
 
 ### Tooling
 
-As a SRE I use the following on a daily basis:
+As a nerd I use the following on a daily basis:
 
 * Linux (Fedora 36 currently)
 * Python
@@ -19,4 +19,3 @@ As a SRE I use the following on a daily basis:
 ### I'm currently playing with and learning:
 
 * [emu2-to-tesla](https://github.com/pchauncey/emu2-to-tesla), my project to charge a car with excess solar in a grid-tie
-* [halyard](https://github.com/spinnaker/halyard) and [spinnaker](https://github.com/spinnaker/halyard)
