@@ -1,21 +1,21 @@
-## Current position
+## Hi
 
-Hi I'm Patrick, and I work with computers!
-
-## Skillset
+Hi I'm Patrick, and I have my own README.md
 
 ### Tooling
 
 As a nerd I use the following on a daily basis:
 
-* Linux (Fedora 36 currently)
-* Python
-* Ansible
-* YAML in vim
-* Docker
+* Linux (Fedora 42 currently)
+* YAML and yq
 
-## Interests
+### Today I'm toying with
 
-### I'm currently playing with and learning:
+* talos linux
+* tinkerbell
+* terraform
 
-* [emu2-to-tesla](https://github.com/pchauncey/emu2-to-tesla), my project to charge a car with excess solar in a grid-tie
+### I see the future:
+
+* Proxmox with Ceph
+
